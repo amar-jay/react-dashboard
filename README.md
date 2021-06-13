@@ -37,18 +37,15 @@ git clone https://github.com/flatlogic/light-blue-react-template.git
 ```shell
 cd light-blue-react-template
 ```
-3. Install dependencies via npm or yarn
+3. Install dependencies via npm
 ```shell
 npm install
-```
-```shell
-yarn
 ```
 
 ## Quick start
 Run development server
 ```shell
-yarn run
+npm start
 ```
 
 
